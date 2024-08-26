@@ -69,6 +69,9 @@ To export data to Google Sheets, you'll need to set up Google API credentials:
 4. **View Results**: The results will be displayed in a scrollable text area within the application.
 5. **Export Data**: Use the export options to save the results in your desired format (CSV, Excel, JSON, or Google Sheets).
 
+![image](https://github.com/user-attachments/assets/d282a179-48f0-4301-9ea8-c7589541320f)
+
+
 ### Logging
 
 All actions and errors are logged to a file named forge_data_app.log, which is created in the application directory.
