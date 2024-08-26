@@ -40,15 +40,15 @@ pip install requests google-auth google-auth-oauthlib google-auth-httplib2 googl
 
    
 bash
-   git clone https://github.com/yourusername/forge-data-scraper.git
-   cd forge-data-scraper
+   git clone https://github.com/yourusername/forge-scraper.git
+   cd forge-scraper
 
 
 2. **Run the application:**
 
    
 bash
-   python forge_data_scraper.py
+   python forge_scraper.py
 
 
 ### Google Sheets Setup
